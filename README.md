@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negisushant&label=Profile%20views&color=0e75b6&style=flat" alt="negisushant" /> </p>
 
-- 🌱 I’m currently learning **React Js || Node Js || Docker || Kubernetes**
+- 🌱 I’m currently learning **Agentic-AI || Microsoft Azure || Kubernetes**
 
-- 💬 Ask me about **React Js || JavaScript || NodeJs**
+- 💬 Ask me about **React Js || JavaScript || NodeJs || Docker || postgrees || TypeScript**
 
 - 📫 How to reach me **sushantsinghnegi1998@gmail.com**
 
